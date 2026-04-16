@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: digimind34/flask-docker-app:latest
+          tags: digi2/flask-docker-app:latest
